@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Wave Dash",
+        "slug": "wave-dash",
+        "image": "/cache/data/image/game/wave-dash/wave-dash-512x512-m186x186.webp"
+    },
+    {
+        "name": "Italian Brainrot Clicker",
+        "slug": "italian-brainrot-clicker",
+        "image": "/cache/data/image/game/italian-brainrot-clicker/italian-brainrot-clicker-1200x1200-m186x186.webp"
+    },
+    {
+        "name": "Chill Guy Clicker",
+        "slug": "chill-guy-clicker",
+        "image": "/cache/data/image/game/chill-guy-clicker/chill-guy-clicker-m186x186.webp"
+    },
+    {
+        "name": "Escape Road",
+        "slug": "escape-road",
+        "image": "/cache/data/image/game/escape-road/escape-road-2-m186x186.webp"
+    },
+    {
+        "name": "Curve Rush",
+        "slug": "curve-rush",
+        "image": "/cache/data/image/game/curve-rush/curve-rush-m186x186.webp"
+    },
+    {
+        "name": "Escape Road City",
+        "slug": "escape-road-city",
+        "image": "/cache/data/image/game/escape-road-city/escape-road-city-m186x186.webp"
+    },
+    {
+        "name": "Escape Road City 2",
+        "slug": "escape-road-city-2",
+        "image": "/cache/data/image/game/escape-road-city-2/escape-road-city-2_1200x1200-m186x186.webp"
+    },
+    {
+        "name": "Escape Road 2",
+        "slug": "escape-road-2",
+        "image": "/cache/data/image/game/escape-road-2/escape-road-2-m186x186.webp"
+    }
+]
