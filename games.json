@@ -38,5 +38,10 @@
         "name": "Escape Road 2",
         "slug": "escape-road-2",
         "image": "/cache/data/image/game/escape-road-2/escape-road-2-m186x186.webp"
+    },
+    {
+        "name": "Sprunki",
+        "slug": "sprunki",
+        "image": "/cache/data/image/game/sprunki/sprunki-m186x186.webp"
     }
 ]
