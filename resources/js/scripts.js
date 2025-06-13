@@ -165,7 +165,7 @@ function search_json() {
                             if (item.slug === game_config.home_page) {
                                 url_game = "/";
                             } else {
-                                url_game = "/" + item.slug + ".html";
+                                url_game = "/" + item.slug;
                             }
                             str_html += `<a href="${url_game}" class="link_search_complete w-full flex items-center group transition-all duration-300 gap-4 p-2"> <div class="relative flex-shrink-0 rounded overflow-hidden ring-2 ring-[#007b43]/20 transition-all duration-300 w-8 h-8"> <img src="${item.image}" alt="${item.name}" class="object-cover w-full h-full flex-shrink-0 transition-transform duration-500 group-hover:scale-110" loading="lazy"></div> <div class="flex-1 min-w-0 text-left text_search_complete text_color">${item.name}</div> </a>`;
                         });
