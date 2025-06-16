@@ -48,5 +48,20 @@
         "name": "Shot Trigger",
         "slug": "shot-trigger",
         "image": "/cache/data/image/game/shot-trigger/shot-trigger-1-m186x186.webp"
+    },
+    {
+        "name": "Minecraft",
+        "slug": "minecraft",
+        "image": "/cache/data/image/game/minecraft-m186x186.webp"
+    },
+    {
+        "name": "Chicken Jockey Clicker",
+        "slug": "chicken-jockey-clicker",
+        "image": "/cache/data/image/game/chicken-jockey-clicker/chicken-jockey-clicker-m186x186.webp"
+    },
+    {
+        "name": "Snow Road",
+        "slug": "snow-road",
+        "image": "/cache/data/image/game/snow-road/snow-road-m186x186.webp"
     }
 ]
