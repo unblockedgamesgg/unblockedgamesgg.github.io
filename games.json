@@ -63,5 +63,10 @@
         "name": "Snow Road",
         "slug": "snow-road",
         "image": "/cache/data/image/game/snow-road/snow-road-m186x186.webp"
+    },
+    {
+        "name": "Granny Horror",
+        "slug": "granny-horror",
+        "image": "/cache/data/image/game/granny-horror/granny-horror1-m186x186.webp"
     }
 ]
