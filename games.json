@@ -68,5 +68,10 @@
         "name": "Granny Horror",
         "slug": "granny-horror",
         "image": "/cache/data/image/game/granny-horror/granny-horror1-m186x186.webp"
+    },
+    {
+        "name": "Tap Road",
+        "slug": "tap-road",
+        "image": "/cache/data/image/game/tap-road/tap-road-m186x186.webp"
     }
 ]
