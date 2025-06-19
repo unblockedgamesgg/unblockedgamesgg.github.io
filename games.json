@@ -73,5 +73,10 @@
         "name": "Tap Road",
         "slug": "tap-road",
         "image": "/cache/data/image/game/tap-road/tap-road-m186x186.webp"
+    },
+    {
+        "name": "Poor Bunny",
+        "slug": "poor-bunny",
+        "image": "/cache/data/image/game/poor-bunny/poor-bunny-m186x186.webp"
     }
 ]
