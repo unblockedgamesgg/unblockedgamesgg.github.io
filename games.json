@@ -45,6 +45,11 @@
         "image": "/cache/data/image/game/sprunki/sprunki-m186x186.webp"
     },
     {
+        "name": "Ski Frenzy",
+        "slug": "ski-frenzy",
+        "image": "/cache/data/image/game/ski-frenzy/ski-frenzy-m186x186.webp"
+    },
+    {
         "name": "Shot Trigger",
         "slug": "shot-trigger",
         "image": "/cache/data/image/game/shot-trigger/shot-trigger-1-m186x186.webp"
