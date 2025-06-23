@@ -83,5 +83,20 @@
         "name": "Poor Bunny",
         "slug": "poor-bunny",
         "image": "/cache/data/image/game/poor-bunny/poor-bunny-m186x186.webp"
+    },
+    {
+        "name": "Merge Brainrot",
+        "slug": "merge-brainrot",
+        "image": "/cache/data/image/game/merge-brainrot/merge-brainrot-m186x186.webp"
+    },
+    {
+        "name": "Traffic Road",
+        "slug": "traffic-road",
+        "image": "/cache/data/image/game/traffic-road/traffic-road-m186x186.webp"
+    },
+    {
+        "name": "Gunspin",
+        "slug": "gunspin",
+        "image": "/cache/data/image/game/gunspin/gunspin-m186x186.webp"
     }
 ]
