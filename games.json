@@ -98,5 +98,20 @@
         "name": "Gunspin",
         "slug": "gunspin",
         "image": "/cache/data/image/game/gunspin/gunspin-m186x186.webp"
+    },
+    {
+        "name": "Geometry Lite",
+        "slug": "geometry-lite",
+        "image": "/cache/data/image/game/geometry-lite/geometry-lite-m186x186.webp"
+    },
+    {
+        "name": "Gabrielle's Cozy Corner",
+        "slug": "gabrielle-s-cozy-corner",
+        "image": "/cache/data/image/game/gabrielle-s-cozy-corner/gabrielle-s-cozy-corner-m186x186.webp"
+    },
+    {
+        "name": "Stellar Burner",
+        "slug": "stellar-burner",
+        "image": "/cache/data/image/game/stellar-burner/stellar-burner-m186x186.webp"
     }
 ]
