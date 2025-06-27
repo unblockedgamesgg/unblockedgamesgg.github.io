@@ -113,5 +113,10 @@
         "name": "Stellar Burner",
         "slug": "stellar-burner",
         "image": "/cache/data/image/game/stellar-burner/stellar-burner-m186x186.webp"
+    },
+    {
+        "name": "Drive Beyond Horizons",
+        "slug": "drive-beyond-horizons",
+        "image": "/cache/data/image/game/drive-beyond-horizons/drive-beyond-horizons-m186x186.webp"
     }
 ]
