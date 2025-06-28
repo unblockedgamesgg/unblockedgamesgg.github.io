@@ -118,5 +118,10 @@
         "name": "Drive Beyond Horizons",
         "slug": "drive-beyond-horizons",
         "image": "/cache/data/image/game/drive-beyond-horizons/drive-beyond-horizons-m186x186.webp"
+    },
+    {
+        "name": "Titans Clicker",
+        "slug": "titans-clicker",
+        "image": "/cache/data/image/game/titans-clicker/titans-clicker-m186x186.webp"
     }
 ]
