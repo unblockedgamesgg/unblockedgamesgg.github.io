@@ -125,6 +125,11 @@
         "image": "/cache/data/image/game/titans-clicker/titans-clicker-m186x186.webp"
     },
     {
+        "name": "Dreamy Room",
+        "slug": "dreamy-room",
+        "image": "/cache/data/image/game/home-design-small-house/dreamy-room-m186x186.webp"
+    },
+    {
         "name": "WarStrike",
         "slug": "warstrike",
         "image": "/cache/data/image/game/warstrike/warstrike-m186x186.webp"
