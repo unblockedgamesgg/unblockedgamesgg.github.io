@@ -130,6 +130,11 @@
         "image": "/cache/data/image/game/home-design-small-house/dreamy-room-m186x186.webp"
     },
     {
+        "name": "Bricks Breaker",
+        "slug": "bricks-breaker",
+        "image": "/cache/data/image/game/bricks-breaker/bricks-breaker-1-m186x186.webp"
+    },
+    {
         "name": "WarStrike",
         "slug": "warstrike",
         "image": "/cache/data/image/game/warstrike/warstrike-m186x186.webp"
