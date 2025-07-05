@@ -143,5 +143,20 @@
         "name": "Cat Evolution",
         "slug": "cat-evolution",
         "image": "/cache/data/image/game/cat-evolution/cat-evolution-1-m186x186.webp"
+    },
+    {
+        "name": "Tralalero Tralala Clicker",
+        "slug": "tralalero-tralala-clicker",
+        "image": "/cache/data/image/game/tralalero-tralala-clicker/tralalero-tralala-clicker-m186x186.webp"
+    },
+    {
+        "name": "Stickman Clash",
+        "slug": "stickman-clash",
+        "image": "/cache/data/image/game/stickman-clash-m186x186.webp"
+    },
+    {
+        "name": "Kong Adventure",
+        "slug": "kong-adventure",
+        "image": "/cache/data/image/game/kong-adventure/kong-adventure-m186x186.webp"
     }
 ]
