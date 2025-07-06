@@ -155,8 +155,18 @@
         "image": "/cache/data/image/game/stickman-clash-m186x186.webp"
     },
     {
+        "name": "Spear Warzone",
+        "slug": "spear-warzone",
+        "image": "/cache/data/image/game/spear-warzone/spear-wazone-m186x186.webp"
+    },
+    {
         "name": "Kong Adventure",
         "slug": "kong-adventure",
         "image": "/cache/data/image/game/kong-adventure/kong-adventure-m186x186.webp"
+    },
+    {
+        "name": "Flying Kong",
+        "slug": "flying-kong",
+        "image": "/cache/data/image/game/flying-kong/flying-kong-512x512-logo-m186x186.webp"
     }
 ]
