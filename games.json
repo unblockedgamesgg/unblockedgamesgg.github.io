@@ -165,6 +165,11 @@
         "image": "/cache/data/image/game/kong-adventure/kong-adventure-m186x186.webp"
     },
     {
+        "name": "Forest Mouse",
+        "slug": "forest-mouse",
+        "image": "/cache/data/image/game/forest-mouse/forest-mouse-m186x186.webp"
+    },
+    {
         "name": "Flying Kong",
         "slug": "flying-kong",
         "image": "/cache/data/image/game/flying-kong/flying-kong-512x512-logo-m186x186.webp"
