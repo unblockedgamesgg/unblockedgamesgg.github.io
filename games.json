@@ -173,5 +173,10 @@
         "name": "Flying Kong",
         "slug": "flying-kong",
         "image": "/cache/data/image/game/flying-kong/flying-kong-512x512-logo-m186x186.webp"
+    },
+    {
+        "name": "Moto X3M",
+        "slug": "moto-x3m",
+        "image": "/cache/data/image/game/moto-x3m/moto-x3m-m186x186.webp"
     }
 ]
