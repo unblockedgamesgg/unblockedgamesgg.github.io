@@ -145,6 +145,11 @@
         "image": "/cache/data/image/game/cat-evolution/cat-evolution-1-m186x186.webp"
     },
     {
+        "name": "Doors Online",
+        "slug": "doors-online",
+        "image": "/cache/data/image/game/doors-online/doors-online-m186x186.webp"
+    },
+    {
         "name": "Tralalero Tralala Clicker",
         "slug": "tralalero-tralala-clicker",
         "image": "/cache/data/image/game/tralalero-tralala-clicker/tralalero-tralala-clicker-m186x186.webp"
