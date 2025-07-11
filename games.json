@@ -183,5 +183,10 @@
         "name": "Moto X3M",
         "slug": "moto-x3m",
         "image": "/cache/data/image/game/moto-x3m/moto-x3m-m186x186.webp"
+    },
+    {
+        "name": "Five Nights at Freddy's",
+        "slug": "five-nights-at-freddy-s",
+        "image": "/cache/data/image/game/five-nights-at-freddy-s/five-nights-at-freddy-s-m186x186.webp"
     }
 ]
