@@ -193,5 +193,15 @@
         "name": "Relic Runway",
         "slug": "relic-runway",
         "image": "/cache/data/image/game/relic-runway/relic-runway-m186x186.webp"
+    },
+    {
+        "name": "Stardust Soir\u00e9e",
+        "slug": "stardust-soiree",
+        "image": "/cache/data/image/game/stardust-soiree/stardust-soiree-m186x186.webp"
+    },
+    {
+        "name": "Sprunki Minecraft",
+        "slug": "sprunki-minecraft",
+        "image": "/cache/data/image/game/sprunki-minecraft/sprunki-minecraft-m186x186.webp"
     }
 ]
