@@ -208,5 +208,10 @@
         "name": "Paper Minecraft",
         "slug": "paper-minecraft",
         "image": "/cache/data/image/game/paper-minecraft/paper-minecraft-m186x186.webp"
+    },
+    {
+        "name": "Burrito Craft",
+        "slug": "burrito-craft",
+        "image": "/cache/data/image/game/burrito-craft/burrito-craft-m186x186.webp"
     }
 ]
