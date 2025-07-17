@@ -195,6 +195,11 @@
         "image": "/cache/data/image/game/relic-runway/relic-runway-m186x186.webp"
     },
     {
+        "name": "Crazy Cattle 3D",
+        "slug": "crazy-cattle-3d",
+        "image": "/cache/data/image/game/crazy-cattle-3d/crazy-cattle-3d-m186x186.webp"
+    },
+    {
         "name": "Stardust Soir\u00e9e",
         "slug": "stardust-soiree",
         "image": "/cache/data/image/game/stardust-soiree/stardust-soiree-m186x186.webp"
