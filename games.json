@@ -218,5 +218,10 @@
         "name": "Burrito Craft",
         "slug": "burrito-craft",
         "image": "/cache/data/image/game/burrito-craft/burrito-craft-m186x186.webp"
+    },
+    {
+        "name": "Color Rush",
+        "slug": "color-rush",
+        "image": "/cache/data/image/game/color-rush/color-rush-m186x186.webp"
     }
 ]
