@@ -223,5 +223,20 @@
         "name": "Color Rush",
         "slug": "color-rush",
         "image": "/cache/data/image/game/color-rush/color-rush-m186x186.webp"
+    },
+    {
+        "name": "Ragdoll Archers",
+        "slug": "ragdoll-archers",
+        "image": "/cache/data/image/game/ragdoll-archers/ragdoll-archers-m186x186.webp"
+    },
+    {
+        "name": "Cluster Rush",
+        "slug": "cluster-rush",
+        "image": "/cache/data/image/game/cluster-rush/cluster-rush-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash Breeze",
+        "slug": "geometry-dash-breeze",
+        "image": "/cache/data/image/game/geometry-dash-breeze/geometry-dash-breeze-m186x186.webp"
     }
 ]
