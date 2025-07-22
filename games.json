@@ -238,5 +238,10 @@
         "name": "Geometry Dash Breeze",
         "slug": "geometry-dash-breeze",
         "image": "/cache/data/image/game/geometry-dash-breeze/geometry-dash-breeze-m186x186.webp"
+    },
+    {
+        "name": "Friday Night Funkin'",
+        "slug": "friday-night-funkin",
+        "image": "/cache/data/image/game/friday-night-funkin/friday-night-funkin-m186x186.webp"
     }
 ]
