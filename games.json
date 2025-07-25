@@ -253,5 +253,10 @@
         "name": "Getaway Shootout",
         "slug": "getaway-shootout",
         "image": "/cache/data/image/game/getaway-shootout/getaway-shootout-m186x186.webp"
+    },
+    {
+        "name": "Crazy Animal City",
+        "slug": "crazy-animal-city",
+        "image": "/cache/data/image/game/crazy-animal-city/crazy-animal-city-m186x186.webp"
     }
 ]
