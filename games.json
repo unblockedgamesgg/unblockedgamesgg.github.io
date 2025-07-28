@@ -258,5 +258,20 @@
         "name": "Crazy Animal City",
         "slug": "crazy-animal-city",
         "image": "/cache/data/image/game/crazy-animal-city/crazy-animal-city-m186x186.webp"
+    },
+    {
+        "name": "Stickman Dragon Fight",
+        "slug": "stickman-dragon-fight",
+        "image": "/cache/data/image/game/stickman-dragon-fight/stickman-dragon-fight-m186x186.webp"
+    },
+    {
+        "name": "Geometry Subzero",
+        "slug": "geometry-subzero",
+        "image": "/cache/data/image/game/geometry-subzero/geometry-subzero-m186x186.webp"
+    },
+    {
+        "name": "Indoor Soccer",
+        "slug": "indoor-soccer",
+        "image": "/cache/data/image/game/indoor-soccer/indoor-soccer-m186x186.webp"
     }
 ]
