@@ -273,5 +273,10 @@
         "name": "Indoor Soccer",
         "slug": "indoor-soccer",
         "image": "/cache/data/image/game/indoor-soccer/indoor-soccer-m186x186.webp"
+    },
+    {
+        "name": "Golf Hit",
+        "slug": "golf-hit",
+        "image": "/cache/data/image/game/golf-hit/golf-hit-m186x186.webp"
     }
 ]
