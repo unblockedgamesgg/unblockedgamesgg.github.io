@@ -278,5 +278,40 @@
         "name": "Golf Hit",
         "slug": "golf-hit",
         "image": "/cache/data/image/game/golf-hit/golf-hit-m186x186.webp"
+    },
+    {
+        "name": "Wave Road",
+        "slug": "wave-road",
+        "image": "/cache/data/image/game/wave-road/wave-road-m186x186.webp"
+    },
+    {
+        "name": "Geometry Vibes X-Ball",
+        "slug": "geometry-vibes-x-ball",
+        "image": "/cache/data/image/game/geometry-vibes-x-ball/geometry-vibes-x-ball-1-m186x186.webp"
+    },
+    {
+        "name": "Drift Boss",
+        "slug": "drift-boss",
+        "image": "/cache/data/image/game/drift-boss/drift-boss-m186x186.webp"
+    },
+    {
+        "name": "Cookie Clicker",
+        "slug": "cookie-clicker",
+        "image": "/cache/data/image/game/cookie-clicker/cookie-clicker-m186x186.webp"
+    },
+    {
+        "name": "OVO",
+        "slug": "ovo",
+        "image": "/cache/data/image/game/ovo/ovo-online-m186x186.webp"
+    },
+    {
+        "name": "Snow Rider 3D",
+        "slug": "snow-rider-3d",
+        "image": "/cache/data/image/game/snow-rider-3d/snow-rider-3d-m186x186.webp"
+    },
+    {
+        "name": "Eggy Car",
+        "slug": "eggy-car",
+        "image": "/cache/data/image/game/eggy-car/eggy-car-m186x186.webp"
     }
 ]
