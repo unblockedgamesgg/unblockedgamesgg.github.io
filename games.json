@@ -315,6 +315,11 @@
         "image": "/cache/data/image/game/eggy-car/eggy-car-m186x186.webp"
     },
     {
+        "name": "Short Ride",
+        "slug": "short-ride",
+        "image": "/cache/data/image/game/short-ride/short-ride-m186x186.webp"
+    },
+    {
         "name": "Basketball Stars",
         "slug": "basketball-stars",
         "image": "/cache/data/image/game/basketball-stars/basketball-stars-2-m186x186.webp"
