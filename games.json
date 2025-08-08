@@ -323,5 +323,10 @@
         "name": "Basketball Stars",
         "slug": "basketball-stars",
         "image": "/cache/data/image/game/basketball-stars/basketball-stars-2-m186x186.webp"
+    },
+    {
+        "name": "Dunk Dash",
+        "slug": "dunk-dash",
+        "image": "/cache/data/image/game/dunk-dash/dunk-dash-m186x186.webp"
     }
 ]
