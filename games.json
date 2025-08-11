@@ -328,5 +328,20 @@
         "name": "Dunk Dash",
         "slug": "dunk-dash",
         "image": "/cache/data/image/game/dunk-dash/dunk-dash-m186x186.webp"
+    },
+    {
+        "name": "Red Rush",
+        "slug": "red-rush",
+        "image": "/cache/data/image/game/red-rush/red-rush-m186x186.webp"
+    },
+    {
+        "name": "Deltarune",
+        "slug": "deltarune",
+        "image": "/cache/data/image/game/deltarune/deltarune-m186x186.webp"
+    },
+    {
+        "name": "Flick Goal",
+        "slug": "flick-goal",
+        "image": "/cache/data/image/game/flick-goal/flick-goal-m186x186.webp"
     }
 ]
