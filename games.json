@@ -343,5 +343,10 @@
         "name": "Flick Goal",
         "slug": "flick-goal",
         "image": "/cache/data/image/game/flick-goal/flick-goal-m186x186.webp"
+    },
+    {
+        "name": "Ball Orbit",
+        "slug": "ball-orbit",
+        "image": "/cache/data/image/game/ball-orbit/ball-orbit-m186x186.webp"
     }
 ]
