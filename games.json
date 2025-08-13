@@ -348,5 +348,10 @@
         "name": "Ball Orbit",
         "slug": "ball-orbit",
         "image": "/cache/data/image/game/ball-orbit/ball-orbit-m186x186.webp"
+    },
+    {
+        "name": "Stickman Racing",
+        "slug": "stickman-racing",
+        "image": "/cache/data/image/game/stickman-racing/stickman-racing-m186x186.webp"
     }
 ]
