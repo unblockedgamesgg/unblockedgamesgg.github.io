@@ -353,5 +353,10 @@
         "name": "Stickman Racing",
         "slug": "stickman-racing",
         "image": "/cache/data/image/game/stickman-racing/stickman-racing-m186x186.webp"
+    },
+    {
+        "name": "Speed Stars",
+        "slug": "speed-stars",
+        "image": "/cache/data/image/game/speed-stars/speed-stars-m186x186.webp"
     }
 ]
