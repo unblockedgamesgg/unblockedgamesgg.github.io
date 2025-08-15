@@ -358,5 +358,10 @@
         "name": "Speed Stars",
         "slug": "speed-stars",
         "image": "/cache/data/image/game/speed-stars/speed-stars-m186x186.webp"
+    },
+    {
+        "name": "Wacky Flip",
+        "slug": "wacky-flip",
+        "image": "/cache/data/image/game/wacky-flip/wacky-flip-m186x186.webp"
     }
 ]
