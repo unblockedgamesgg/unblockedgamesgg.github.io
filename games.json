@@ -363,5 +363,25 @@
         "name": "Wacky Flip",
         "slug": "wacky-flip",
         "image": "/cache/data/image/game/wacky-flip/wacky-flip-m186x186.webp"
+    },
+    {
+        "name": "Golf Orbit",
+        "slug": "golf-orbit",
+        "image": "/cache/data/image/game/golf-orbit/golf-orbit-1-m186x186.webp"
+    },
+    {
+        "name": "Basketball Superstars",
+        "slug": "basketball-superstars",
+        "image": "/cache/data/image/game/basketball-superstars/basketball-superstars-m186x186.webp"
+    },
+    {
+        "name": "Head Basketball",
+        "slug": "head-basketball",
+        "image": "/cache/data/image/game/head-basketball/head-basketball-m186x186.webp"
+    },
+    {
+        "name": "Basket Random",
+        "slug": "basket-random",
+        "image": "/cache/data/image/game/basket-random/basket-random-m186x186.webp"
     }
 ]
