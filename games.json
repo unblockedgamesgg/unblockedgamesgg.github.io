@@ -383,5 +383,10 @@
         "name": "Basket Random",
         "slug": "basket-random",
         "image": "/cache/data/image/game/basket-random/basket-random-m186x186.webp"
+    },
+    {
+        "name": "Football Bros",
+        "slug": "football-bros",
+        "image": "/cache/data/image/game/football-bros/football-bros-m186x186.webp"
     }
 ]
