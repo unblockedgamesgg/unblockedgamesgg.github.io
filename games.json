@@ -388,5 +388,10 @@
         "name": "Football Bros",
         "slug": "football-bros",
         "image": "/cache/data/image/game/football-bros/football-bros-m186x186.webp"
+    },
+    {
+        "name": "Soccer Legends",
+        "slug": "soccer-legends",
+        "image": "/cache/data/image/game/soccer-legends/soccer-legends-m186x186.webp"
     }
 ]
