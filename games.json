@@ -393,5 +393,10 @@
         "name": "Soccer Legends",
         "slug": "soccer-legends",
         "image": "/cache/data/image/game/soccer-legends/soccer-legends-m186x186.webp"
+    },
+    {
+        "name": "Head Soccer 2024",
+        "slug": "head-soccer-2024",
+        "image": "/cache/data/image/game/head-soccer-2024/head-soccer-2024-m186x186.webp"
     }
 ]
