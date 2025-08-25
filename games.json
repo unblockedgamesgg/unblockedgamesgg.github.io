@@ -398,5 +398,20 @@
         "name": "Head Soccer 2024",
         "slug": "head-soccer-2024",
         "image": "/cache/data/image/game/head-soccer-2024/head-soccer-2024-m186x186.webp"
+    },
+    {
+        "name": "Speed Legends",
+        "slug": "speed-legends",
+        "image": "/cache/data/image/game/speed-legends/speed-legends-m186x186.webp"
+    },
+    {
+        "name": "Hockey Random",
+        "slug": "hockey-random",
+        "image": "/cache/data/image/game/hockey-random/hockey-random-m186x186.webp"
+    },
+    {
+        "name": "8 Ball Pool",
+        "slug": "8-ball-pool",
+        "image": "/cache/data/image/game/8-ball-pool/8-ball-pool-m186x186.webp"
     }
 ]
