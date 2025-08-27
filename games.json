@@ -413,5 +413,15 @@
         "name": "8 Ball Pool",
         "slug": "8-ball-pool",
         "image": "/cache/data/image/game/8-ball-pool/8-ball-pool-m186x186.webp"
+    },
+    {
+        "name": "Stunt Bike Extreme",
+        "slug": "stunt-bike-extreme",
+        "image": "/cache/data/image/game/stunt-bike-extreme/stunt-bike-extreme-m186x186.webp"
+    },
+    {
+        "name": "Dashmetry",
+        "slug": "dashmetry",
+        "image": "/cache/data/image/game/dashmetry/dashmetry-m186x186.webp"
     }
 ]
