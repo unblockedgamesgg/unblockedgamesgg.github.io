@@ -423,5 +423,10 @@
         "name": "Dashmetry",
         "slug": "dashmetry",
         "image": "/cache/data/image/game/dashmetry/dashmetry-m186x186.webp"
+    },
+    {
+        "name": "Dude Theft Auto",
+        "slug": "dude-theft-auto",
+        "image": "/cache/data/image/game/dude-theft-auto/dude-theft-auto-m186x186.webp"
     }
 ]
