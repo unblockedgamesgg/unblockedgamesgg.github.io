@@ -335,11 +335,6 @@
         "image": "/cache/data/image/game/red-rush/red-rush-m186x186.webp"
     },
     {
-        "name": "Deltarune",
-        "slug": "deltarune",
-        "image": "/cache/data/image/game/deltarune/deltarune-m186x186.webp"
-    },
-    {
         "name": "Flick Goal",
         "slug": "flick-goal",
         "image": "/cache/data/image/game/flick-goal/flick-goal-m186x186.webp"
@@ -428,5 +423,10 @@
         "name": "Dude Theft Auto",
         "slug": "dude-theft-auto",
         "image": "/cache/data/image/game/dude-theft-auto/dude-theft-auto-m186x186.webp"
+    },
+    {
+        "name": "Among Us",
+        "slug": "among-us",
+        "image": "/cache/data/image/game/among-us/among-us-m186x186.webp"
     }
 ]
