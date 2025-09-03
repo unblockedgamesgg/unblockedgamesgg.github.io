@@ -425,8 +425,33 @@
         "image": "/cache/data/image/game/dude-theft-auto/dude-theft-auto-m186x186.webp"
     },
     {
+        "name": "Baldi's Basics",
+        "slug": "baldi-s-basics",
+        "image": "/cache/data/image/game/baldi-s-basics/baldi-s-basics-m186x186.webp"
+    },
+    {
         "name": "Among Us",
         "slug": "among-us",
         "image": "/cache/data/image/game/among-us/among-us-m186x186.webp"
+    },
+    {
+        "name": "Baseball Pro Game",
+        "slug": "baseball-pro-game",
+        "image": "/cache/data/image/game/baseball-pro-game/baseball-pro-game-m186x186.webp"
+    },
+    {
+        "name": "BasketBros",
+        "slug": "basketbros",
+        "image": "/cache/data/image/game/basketbros/basketbros-m186x186.webp"
+    },
+    {
+        "name": "E-Life Simulation",
+        "slug": "e-life-simulation",
+        "image": "/cache/data/image/game/e-life-simulation/e-life-simulation-m186x186.webp"
+    },
+    {
+        "name": "Fireboy and Watergirl 1 Forest Temple",
+        "slug": "fireboy-and-watergirl-1-forest-temple",
+        "image": "/cache/data/image/game/fireboy-and-watergirl-1-forest-temple/fireboy-and-watergirl-1-forest-temple-1-m186x186.webp"
     }
 ]
