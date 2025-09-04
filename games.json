@@ -453,5 +453,10 @@
         "name": "Fireboy and Watergirl 1 Forest Temple",
         "slug": "fireboy-and-watergirl-1-forest-temple",
         "image": "/cache/data/image/game/fireboy-and-watergirl-1-forest-temple/fireboy-and-watergirl-1-forest-temple-1-m186x186.webp"
+    },
+    {
+        "name": "Flappy Bird",
+        "slug": "flappy-bird",
+        "image": "/cache/data/image/game/flappy-bird/flappy-bird-m186x186.webp"
     }
 ]
