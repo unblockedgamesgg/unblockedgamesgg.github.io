@@ -458,5 +458,10 @@
         "name": "Flappy Bird",
         "slug": "flappy-bird",
         "image": "/cache/data/image/game/flappy-bird/flappy-bird-m186x186.webp"
+    },
+    {
+        "name": "Crossy Road",
+        "slug": "crossy-road",
+        "image": "/cache/data/image/game/crossy-road/crossy-road-m186x186.webp"
     }
 ]
