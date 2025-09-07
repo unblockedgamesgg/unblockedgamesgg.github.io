@@ -463,5 +463,15 @@
         "name": "Crossy Road",
         "slug": "crossy-road",
         "image": "/cache/data/image/game/crossy-road/crossy-road-m186x186.webp"
+    },
+    {
+        "name": "Dino Game",
+        "slug": "dino-game",
+        "image": "/cache/data/image/game/dino-game/dino-game-m186x186.webp"
+    },
+    {
+        "name": "Doodle Baseball",
+        "slug": "doodle-baseball",
+        "image": "/cache/data/image/game/doodle-baseball/doodle-baseball-m186x186.webp"
     }
 ]
