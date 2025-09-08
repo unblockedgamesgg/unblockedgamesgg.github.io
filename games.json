@@ -473,5 +473,10 @@
         "name": "Doodle Baseball",
         "slug": "doodle-baseball",
         "image": "/cache/data/image/game/doodle-baseball/doodle-baseball-m186x186.webp"
+    },
+    {
+        "name": "Doodle Jump",
+        "slug": "doodle-jump",
+        "image": "/cache/data/image/game/doodle-jump/doodle-jump-m186x186.webp"
     }
 ]
