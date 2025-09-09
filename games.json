@@ -478,5 +478,10 @@
         "name": "Doodle Jump",
         "slug": "doodle-jump",
         "image": "/cache/data/image/game/doodle-jump/doodle-jump-m186x186.webp"
+    },
+    {
+        "name": "Drift Hunters",
+        "slug": "drift-hunters",
+        "image": "/cache/data/image/game/drift-hunters/drift-hunters-m186x186.webp"
     }
 ]
