@@ -488,5 +488,10 @@
         "name": "Drive Mad",
         "slug": "drive-mad",
         "image": "/cache/data/image/game/drive-mad/drive-mad-m186x186.webp"
+    },
+    {
+        "name": "Slope Rider",
+        "slug": "slope-rider",
+        "image": "/cache/data/image/game/slope-rider/slope-rider-m186x186.webp"
     }
 ]
