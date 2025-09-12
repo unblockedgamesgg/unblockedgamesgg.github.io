@@ -493,5 +493,10 @@
         "name": "Slope Rider",
         "slug": "slope-rider",
         "image": "/cache/data/image/game/slope-rider/slope-rider-m186x186.webp"
+    },
+    {
+        "name": "Icy Dash",
+        "slug": "icy-dash",
+        "image": "/cache/data/image/game/icy-dash/icy-dash-m186x186.webp"
     }
 ]
