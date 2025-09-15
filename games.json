@@ -498,5 +498,20 @@
         "name": "Icy Dash",
         "slug": "icy-dash",
         "image": "/cache/data/image/game/icy-dash/icy-dash-m186x186.webp"
+    },
+    {
+        "name": "Snowtrail Legends",
+        "slug": "snowtrail-legends",
+        "image": "/cache/data/image/game/snowtrail-legends/snowtrail-legends-m186x186.webp"
+    },
+    {
+        "name": "Snow Rush 3D",
+        "slug": "snow-rush-3d",
+        "image": "/cache/data/image/game/snow-rush-3d/snow-rush-3d-1-m186x186.webp"
+    },
+    {
+        "name": "Subway Surfers Winter Holiday",
+        "slug": "subway-surfers-winter-holiday",
+        "image": "/cache/data/image/game/subway-surfers-winter-holiday/subway-surfers-winter-holiday-m186x186.webp"
     }
 ]
