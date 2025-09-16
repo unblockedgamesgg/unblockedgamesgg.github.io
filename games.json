@@ -513,5 +513,10 @@
         "name": "Subway Surfers Winter Holiday",
         "slug": "subway-surfers-winter-holiday",
         "image": "/cache/data/image/game/subway-surfers-winter-holiday/subway-surfers-winter-holiday-m186x186.webp"
+    },
+    {
+        "name": "Winter Clash 3D",
+        "slug": "winter-clash-3d",
+        "image": "/cache/data/image/game/winter-clash-3d/winter-clash-3d-m186x186.webp"
     }
 ]
