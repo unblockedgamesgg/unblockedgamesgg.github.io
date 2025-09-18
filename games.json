@@ -523,5 +523,10 @@
         "name": "Escape Road Winter",
         "slug": "escape-road-winter",
         "image": "/cache/data/image/game/escape-road-winter/escape-road-winter-m186x186.webp"
+    },
+    {
+        "name": "Neon Leap",
+        "slug": "neon-leap",
+        "image": "/cache/data/image/game/neon-leap-m186x186.webp"
     }
 ]
