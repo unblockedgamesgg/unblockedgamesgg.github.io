@@ -528,5 +528,10 @@
         "name": "Neon Leap",
         "slug": "neon-leap",
         "image": "/cache/data/image/game/neon-leap-m186x186.webp"
+    },
+    {
+        "name": "Pixel Path",
+        "slug": "pixel-path",
+        "image": "/cache/data/image/game/pixel-path/pixel-path-1-m186x186.webp"
     }
 ]
