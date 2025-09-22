@@ -533,5 +533,20 @@
         "name": "Pixel Path",
         "slug": "pixel-path",
         "image": "/cache/data/image/game/pixel-path/pixel-path-1-m186x186.webp"
+    },
+    {
+        "name": "Take Care Of Shadow Milk",
+        "slug": "take-care-of-shadow-milk",
+        "image": "/cache/data/image/game/take-care-of-shadow-milk/take-care-of-shadow-milk-m186x186.webp"
+    },
+    {
+        "name": "Granny Horror 2",
+        "slug": "granny-horror-2",
+        "image": "/cache/data/image/game/granny-horror-2/granny-horror-2-m186x186.webp"
+    },
+    {
+        "name": "BLOODMONEY!",
+        "slug": "bloodmoney",
+        "image": "/cache/data/image/game/bloodmoney/bloodmoney-m186x186.webp"
     }
 ]
