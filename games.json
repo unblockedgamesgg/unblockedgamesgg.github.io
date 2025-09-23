@@ -548,5 +548,10 @@
         "name": "BLOODMONEY!",
         "slug": "bloodmoney",
         "image": "/cache/data/image/game/bloodmoney/bloodmoney-m186x186.webp"
+    },
+    {
+        "name": "Chiikawa Puzzle",
+        "slug": "chiikawa-puzzle",
+        "image": "/cache/data/image/game/chiikawa-puzzle/chiikawa-puzzle-m186x186.webp"
     }
 ]
