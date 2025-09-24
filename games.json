@@ -553,5 +553,10 @@
         "name": "Chiikawa Puzzle",
         "slug": "chiikawa-puzzle",
         "image": "/cache/data/image/game/chiikawa-puzzle/chiikawa-puzzle-m186x186.webp"
+    },
+    {
+        "name": "Deer Adventure",
+        "slug": "deer-adventure",
+        "image": "/cache/data/image/game/deer-adventure/deer-adventure-m186x186.webp"
     }
 ]
