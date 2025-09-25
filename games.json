@@ -558,5 +558,10 @@
         "name": "Deer Adventure",
         "slug": "deer-adventure",
         "image": "/cache/data/image/game/deer-adventure/deer-adventure-m186x186.webp"
+    },
+    {
+        "name": "House of Hazards",
+        "slug": "house-of-hazards",
+        "image": "/cache/data/image/game/house-of-hazards/house-of-hazards-m186x186.webp"
     }
 ]
