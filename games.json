@@ -563,5 +563,10 @@
         "name": "House of Hazards",
         "slug": "house-of-hazards",
         "image": "/cache/data/image/game/house-of-hazards/house-of-hazards-m186x186.webp"
+    },
+    {
+        "name": "Shell Shockers",
+        "slug": "shell-shockers",
+        "image": "/cache/data/image/game/shell-shockers/shell-shockers-m186x186.webp"
     }
 ]
