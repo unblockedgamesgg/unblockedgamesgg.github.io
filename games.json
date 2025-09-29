@@ -568,5 +568,20 @@
         "name": "Shell Shockers",
         "slug": "shell-shockers",
         "image": "/cache/data/image/game/shell-shockers/shell-shockers-m186x186.webp"
+    },
+    {
+        "name": "Minesweeper",
+        "slug": "minesweeper",
+        "image": "/cache/data/image/game/minesweeper/minesweeper-4-m186x186.webp"
+    },
+    {
+        "name": "PAPER.IO 2",
+        "slug": "paperio-2",
+        "image": "/cache/data/image/game/paperio-2/paperio-2-m186x186.webp"
+    },
+    {
+        "name": "Raft Wars 2",
+        "slug": "raft-wars-2",
+        "image": "/cache/data/image/game/raft-wars-2/raft-wars-2-m186x186.webp"
     }
 ]
