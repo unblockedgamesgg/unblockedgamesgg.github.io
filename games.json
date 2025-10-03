@@ -583,5 +583,25 @@
         "name": "Raft Wars 2",
         "slug": "raft-wars-2",
         "image": "/cache/data/image/game/raft-wars-2/raft-wars-2-m186x186.webp"
+    },
+    {
+        "name": "Retro Bowl",
+        "slug": "retro-bowl",
+        "image": "/cache/data/image/game/retro-bowl/retro-bowl-m186x186.webp"
+    },
+    {
+        "name": "Run 3",
+        "slug": "run-3",
+        "image": "/cache/data/image/game/run-3/run-3-m186x186.webp"
+    },
+    {
+        "name": "Helicopter Game",
+        "slug": "helicopter-game",
+        "image": "/cache/data/image/game/helicopter-game/helicopter-game-m186x186.webp"
+    },
+    {
+        "name": "Blade &amp; Bedlam",
+        "slug": "blade-bedlam",
+        "image": "/cache/data/image/game/blade-bedlam/blade-bedlam-m186x186.webp"
     }
 ]
