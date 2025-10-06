@@ -603,5 +603,20 @@
         "name": "Blade &amp; Bedlam",
         "slug": "blade-bedlam",
         "image": "/cache/data/image/game/blade-bedlam/blade-bedlam-m186x186.webp"
+    },
+    {
+        "name": "Age of War",
+        "slug": "age-of-war",
+        "image": "/cache/data/image/game/age-of-war/age-of-war-m186x186.webp"
+    },
+    {
+        "name": "Kitten Cannon",
+        "slug": "kitten-cannon",
+        "image": "/cache/data/image/game/kitten-cannon/kitten-cannon-m186x186.webp"
+    },
+    {
+        "name": "Randomancer",
+        "slug": "randomancer",
+        "image": "/cache/data/image/game/randomancer/randomancer1-m186x186.webp"
     }
 ]
